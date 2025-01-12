@@ -1,4 +1,4 @@
-# Chi Sono
+# Tex Willer
 
 Sono uno sviluppatore e analista dati che vive in Spagna, dove collaboro con [Nuanda SEO Consulting](https://nuanda.es). Il mio obiettivo è migliorare la visibilità online e ottimizzare i processi aziendali.
 
@@ -10,7 +10,7 @@ Sono uno sviluppatore e analista dati che vive in Spagna, dove collaboro con [Nu
 
 ## Approccio
 
-Utilizzo gli strumenti giusti per ottenere risultati concreti, integrando soluzioni tecnologiche e analisi dei dati per portare valore ai progetti su cui lavoro...
+Utilizzo gli strumenti giusti per ottenere risultati concreti, integrando soluzioni tecnologiche e analisi dei dati per portare valore ai progetti su cui lavoro.
 
 
 
