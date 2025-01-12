@@ -10,7 +10,7 @@ Sono uno sviluppatore e analista dati che vive in Spagna, dove collaboro con [Nu
 
 ## Approccio
 
-Utilizzo gli strumenti giusti per ottenere risultati concreti, integrando soluzioni tecnologiche e analisi dei dati per portare valore ai progetti su cui lavoro.
+Utilizzo gli strumenti giusti per ottenere risultati concreti, integrando soluzioni tecnologiche e analisi dei dati per portare valore ai progetti su cui lavoro..
 
 
 
